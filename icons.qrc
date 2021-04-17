@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version ="1.0">
+     <qresource>
+          <file>icons/aa.png</file>
+          <file>icons/ee.png</file>
+          <file>icons/ii.png</file>
+          <file>icons/oo.png</file>
+          <file>icons/uu.png</file>
+    </qresource>
+
+</RCC>
